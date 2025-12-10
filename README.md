@@ -28,4 +28,4 @@
   
 </div>
 
-![snake gif]![snake gif](https://github.com/rod-pe/rod-pe/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/rod-pe/rod-pe/blob/output/github-contribution-grid-snake.svg)
