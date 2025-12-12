@@ -1,9 +1,11 @@
 ## Bem-vindo(a) ao perfil de Rodrigo Pereira 😁
 
-<div align="left">
+<div align="center">
   <a href="https://github.com/rod-pe">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rod-pe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rod-pe&layout=compact&langs_count=6&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rod-pe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/rod-pe">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rod-pe&layout=compact&langs_count=6&theme=tokyonight"/>
   </a>
 </div>
 
