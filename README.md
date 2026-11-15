@@ -30,11 +30,12 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/>
 </p>
 
-**Back-end e Bases de Dados**
+**Back-end, Bases de Dados e Data Analytics**
 
 <p>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img height="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI"/>
 </p>
 
 ## 🐍 Minhas contribuições
