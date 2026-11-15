@@ -2,8 +2,6 @@
 
 <div align="center">
 
-### 💻 Back-end | Front-end | Data Science
-
 <a href="https://github.com/rod-pe">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rod-pe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 </a>
