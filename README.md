@@ -12,7 +12,7 @@
 
 </div>
 
----
+
 
 ## 🚀 Áreas de interesse
 
@@ -40,6 +40,7 @@
   &nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI"/>
 </p>
+
 
 ## 🐍 Minhas contribuições
 
