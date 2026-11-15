@@ -2,11 +2,13 @@
 
 <div align="center">
 
+### 💻 Back-end | Front-end | Data Science
+
 <a href="https://github.com/rod-pe">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rod-pe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rod-pe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 </a>
 <a href="https://github.com/rod-pe">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod-pe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rod-pe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
@@ -34,7 +36,9 @@
 
 <p>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
+  &nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  &nbsp;&nbsp;
   <img height="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI"/>
 </p>
 
