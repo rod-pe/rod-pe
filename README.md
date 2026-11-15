@@ -1,19 +1,30 @@
 # 👋 Bem-vindo(a) ao perfil de Rodrigo Pereira
 
+<div align="center">
+
 ### 💻 Back-end | Front-end | Data Science
+
+<a href="https://github.com/rod-pe">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rod-pe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+</a>
+<a href="https://github.com/rod-pe">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rod-pe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+</a>
+
+</div>
 
 ---
 
 ## 🚀 Áreas de interesse
 
 - ⚙️ **Back-end Development**
-- 📊 **Data Science** 
+- 📊 **Data Science**
 - 🎨 **Front-end Development**
 - 🧠 **Continuous Learning**
 
 ## 🛠️ Tecnologias
 
-**Linguagens e desenvolvimento**
+**Desenvolvimento Web**
 
 <p>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"/>
@@ -21,11 +32,11 @@
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3"/>
 </p>
 
-**Bases de dados**
+**Back-end e Bases de Dados**
 
 <p>
-  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/>
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python"/>
+  <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL"/>
 </p>
 
 ## 🐍 Minhas contribuições
@@ -44,6 +55,9 @@ Estou sempre aberto a conhecer pessoas, trocar ideias, colaborar em projetos e d
   </a>
   <a href="https://github.com/rod-pe" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:rodrigocostarcp@outlook.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
   </a>
 </div>
 
