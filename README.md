@@ -1,14 +1,13 @@
 # 👋 Bem-vindo(a) ao perfil de Rodrigo Pereira
+---
 
 <div align="center">
 
-### 💻 Back-end | Front-end | Data Science
-
 <a href="https://github.com/rod-pe">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rod-pe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=rod-pe&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"/>
 </a>
 <a href="https://github.com/rod-pe">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rod-pe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rod-pe&layout=compact&langs_count=6&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
